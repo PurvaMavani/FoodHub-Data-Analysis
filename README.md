@@ -27,4 +27,5 @@ This project analyzes FoodHub's order data to uncover key insights into restaura
    jupyter notebook FoodHub_Analysis.ipynb
    ```  
 
+[linkedin] (https://www.linkedin.com/in/purva-mavani-927128174/) [github] (https://github.com/PurvaMavani)
 📢 **Contributions & Feedback Welcome!**  
